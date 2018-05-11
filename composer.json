@@ -1,0 +1,14 @@
+{
+    "name": "var-trump",
+    "description": "a powerful var_dump wrapper",
+    "authors": [{
+        "name": "Enrico Boccadifuoco",
+        "email": "boccadifuoco@gmail.com"
+    }],
+    "autoload": {
+        "files": ["src/var-trump.php"]
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
