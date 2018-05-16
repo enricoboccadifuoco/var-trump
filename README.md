@@ -1,6 +1,6 @@
 # var-trump
 
-The most powerful php var-dump wrapper.
+Make var_dump Great Again. The most lightweight, 0 dependencies and powerful php var_dump wrapper.
 
 ## Example
 ```php

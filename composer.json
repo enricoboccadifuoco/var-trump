@@ -1,6 +1,6 @@
 {
     "name": "enricoboccadifuoco/var-trump",
-    "description": "a powerful var_dump wrapper",
+    "description": "Make var_dump Great Again: a lightweight var_dump wrapper",
     "authors": [{
         "name": "Enrico Boccadifuoco",
         "email": "boccadifuoco@gmail.com"
