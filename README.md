@@ -2,6 +2,11 @@
 
 Make var_dump Great Again. The most lightweight, 0 dependencies and powerful php var_dump wrapper.
 
+## Install
+```
+composer require enricoboccadifuoco/var-trump
+```
+
 ## Example
 ```php
 var_trump($myAwesomeVar);
